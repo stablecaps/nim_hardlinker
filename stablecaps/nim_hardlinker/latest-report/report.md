@@ -1,5 +1,5 @@
 % Statistics for stablecaps/nim_hardlinker
-% Generated for [stablecaps/nim_hardlinker](https://github.com/stablecaps/nim_hardlinker) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-10-17 23:09 UTC.
+% Generated for [stablecaps/nim_hardlinker](https://github.com/stablecaps/nim_hardlinker) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-10-18 23:08 UTC.
 
 
 ## Views
